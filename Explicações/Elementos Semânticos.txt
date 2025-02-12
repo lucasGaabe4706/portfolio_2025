@@ -1,0 +1,65 @@
+Elementos Semânticos.
+
+Elementos Semânticos de Estrutura
+Esses elementos são usados para organizar o layout e separar áreas do site:
+
+<header>: Representa o cabeçalho de uma página ou seção, normalmente contém títulos, logotipos ou menus de navegação.
+<nav>: Representa uma área de navegação, como links ou menus.
+<section>: Define uma seção temática do conteúdo. É útil para dividir áreas como "Sobre", "Projetos" etc.
+<article>: Indica conteúdo independente, como posts de blogs, artigos de notícias ou um bloco de conteúdo autossuficiente.
+<aside>: Representa conteúdo relacionado ao principal, como barras laterais, widgets ou anúncios.
+<footer>: Representa o rodapé de uma página ou seção, contendo informações como créditos ou links adicionais.
+<main>: Identifica o conteúdo principal de uma página, que deve ser único e essencial para o propósito da página.
+<figure>: Contém um elemento ilustrativo, como imagens ou gráficos, geralmente com uma legenda associada.
+<figcaption>: Proporciona uma legenda para o conteúdo de um <figure>.
+Elementos Semânticos de Texto
+Esses elementos ajudam a descrever o significado e hierarquia de textos:
+
+<h1> a <h6>: Definem títulos, com <h1> sendo o mais importante.
+<p>: Representa um parágrafo de texto.
+<blockquote>: Define uma citação longa, geralmente com referência ao autor.
+<cite>: Identifica o título de uma obra ou o autor de uma citação.
+<q>: Representa uma citação curta, inline.
+<address>: Contém informações de contato de um autor ou organização.
+<time>: Representa uma data ou hora (pode ser usada para marcação de eventos ou horários).
+Elementos de Tabela
+Para estruturar dados tabulares:
+
+<table>: Define uma tabela.
+<caption>: Fornece uma legenda ou título para a tabela.
+<thead>: Define o cabeçalho da tabela.
+<tbody>: Contém o corpo principal dos dados da tabela.
+<tfoot>: Contém os rodapés da tabela (geralmente para somatórios ou notas).
+<tr>: Define uma linha em uma tabela.
+<th>: Define uma célula de cabeçalho dentro de uma linha.
+<td>: Define uma célula padrão dentro de uma linha.
+Elementos de Formulários
+Para criar e estruturar formulários:
+
+<form>: Define um formulário.
+<fieldset>: Agrupa elementos relacionados dentro de um formulário.
+<legend>: Fornece uma legenda para um <fieldset>.
+<label>: Associa uma descrição a um campo de formulário.
+<input>: Representa um campo interativo de entrada de dados.
+<textarea>: Permite a entrada de texto em múltiplas linhas.
+<button>: Representa um botão interativo.
+<select>: Cria um menu suspenso (dropdown).
+<option>: Define as opções dentro de um <select>.
+Elementos para Mídia
+Para incluir e organizar mídias:
+
+<audio>: Reproduz áudio.
+<video>: Reproduz vídeos.
+<img>: Exibe imagens.
+<picture>: Fornece imagens responsivas ou alternativas.
+<track>: Adiciona legendas ou metadados a elementos <video> ou <audio>.
+Outros Elementos Semânticos
+<details>: Cria um widget de exibição recolhível/expansível.
+<summary>: Fornece um resumo ou título para o conteúdo de <details>.
+<mark>: Destaca o texto em contexto, como marcações.
+<code>: Representa blocos de código em texto.
+<pre>: Apresenta texto preformatado (respeita espaços e quebras de linha).
+<kbd>: Indica entrada do teclado.
+<samp>: Representa saída de um programa ou sistema.
+<progress>: Indica o progresso de uma tarefa.
+<meter>: Representa medições dentro de um intervalo específico.
